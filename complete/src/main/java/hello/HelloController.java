@@ -19,7 +19,7 @@ public class HelloController {
 //		.build();
 //
 //	logging.write(Collections.singleton(entry));
-//	System.out.printf("This is a log standard out");
+	System.out.printf("This is a log standard out");
 
         return "Greetings from Spring Boot!";
     }
